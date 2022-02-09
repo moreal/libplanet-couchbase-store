@@ -5,4 +5,10 @@
     <LangVersion>8</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Couchbase.Transactions" Version="1.1.0" />
+    <PackageReference Include="CouchbaseNetClient" Version="3.2.6" />
+    <PackageReference Include="Libplanet" Version="0.27.0" />
+  </ItemGroup>
+
 </Project>
